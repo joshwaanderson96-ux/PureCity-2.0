@@ -1,0 +1,12 @@
+{
+  "name": "PureCity Civic Connect",
+  "description": "Civic engagement platform for reporting, tracking, and resolving civic issues.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
